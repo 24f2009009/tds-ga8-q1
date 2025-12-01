@@ -6,6 +6,7 @@ Email: 24f2009009@ds.study.iitm.ac.in
 
 ## Earnings Overview (with Fragments)
 
+- <span>Email: 24f2009009@ds.study.iitm.ac.in</span> 
 - <span class="fragment fade-in">Revenue Growth: **12% YoY**</span>
 - <span class="fragment fade-in">Net Profit: **₹420 Cr**</span>
 - <span class="fragment fade-in">Customer Acquisition: **+1.2M users**</span>
