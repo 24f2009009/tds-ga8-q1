@@ -1,6 +1,6 @@
 # Quarterly Earnings Report  
 ### Technical Consultant: Anuj Raj  
-### Email: 24f2009009@ds.study.iitm.ac.in
+Email: 24f2009009@ds.study.iitm.ac.in
 
 ---
 
